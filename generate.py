@@ -4,7 +4,7 @@ from xml.sax.saxutils import escape
 from pathlib import Path
 
 # Input and output
-INPUT = "assets/profile.jpg"
+INPUT = "assets/profile.jpeg"
 OUTPUT = "assets/dev-panel.svg"
 
 # ASCII character ramp: dark to bright
