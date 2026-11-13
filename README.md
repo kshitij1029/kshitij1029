@@ -47,30 +47,25 @@ Email Me 👉 ✉️ **connect.kshitijjha@gmail.com** For Collaboration/Project 
 
   <!-- First row -->
   <img
-    src="https://github-stats-extended.vercel.app/api?username=kshitij1029&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
-    width="50%"
+    src="https://github-readme-stats.shion.dev/api?username=kshitij1029&theme=dark&hide_border=false&include_all_commits=false&count_private=false"
+    width="51%"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=kshitij1029&layout=compact&theme=github_dark&hide_border=true&langs_count=6"
-    width="35%"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=kshitij1029&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+    width="40%"
     alt="Most Used Languages"
   />
 
 
   <!-- Second row -->
   <img
-    src="https://streak-stats.demolab.com/?user=kshitij1029&theme=github-dark-blue&hide_border=true"
-    width="70%"
+    src="https://streak-stats.demolab.com/?user=kshitij1029&theme=dark&hide_border=false"
+    width="50%"
     alt="GitHub Contribution Streak"
   />
 
 </div>
-
-
-
-
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kshitij1029&theme=dark&no-frame=false&no-bg=true&margin-w=4)
@@ -80,5 +75,3 @@ Email Me 👉 ✉️ **connect.kshitijjha@gmail.com** For Collaboration/Project 
 
 ---
 [![](https://komarev.com/ghpvc/?username=kshitij1029&icon=5&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
